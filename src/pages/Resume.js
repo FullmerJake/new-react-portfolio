@@ -36,10 +36,9 @@ function Resume() {
                 <li>JavaScript</li>
                 <li>HTML</li>
                 <li>CSS</li>
-                <li>Responsive Design</li>
                 <li>React</li>
-                <li>Bootstrap</li>
                 <li>jQuery</li>
+                <li>Bootstrap</li>
               </ul>
             </Card.Body>
           </Card>
@@ -47,14 +46,10 @@ function Resume() {
             <Card.Body>
               <h3>Backend Skills</h3>
               <ul>
-                <li>SQL</li>
-                <li>APIs</li>
-                <li>REST</li>
-                <li>MongoDB, Mongoose</li>
-                <li>MySQL, Sequelize</li>
-                <li>Express</li>
-                <li>Node</li>
-                <li>GraphQL</li>
+                <li>RESTful APIs · GraphQL</li>
+                <li>MongoDB · Mongoose</li>
+                <li>MySQL · Sequelize</li>
+                <li>Express · Node.js</li>
               </ul>
             </Card.Body>
           </Card>

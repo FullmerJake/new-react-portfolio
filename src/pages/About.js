@@ -35,14 +35,14 @@ function About() {
         <Container className="p-5">
           <h3>About Me</h3>
           <p>
-            Programming as always been a part of my life, but it wasn't until recently that it became my life! Try as I might, but that call of the computer was never far from me.
+            Programming has always been a part of my life, but it wasn't until recently that it became my life! Try as I might, but the call of the computer was never far from me.
           </p>
           <p>
-            I got my BA in Stage Management, where I spent my college years learning how to most effectively communicate between 2 wildly different personalities within the theatre world.
+            I got my Bachelors in Stage Management from Brigham Young University, where I spent my college years learning how to most effectively communicate between 2 wildly different personalities within the theatre world.
             My goal now is to use those skills to create a more immersive and connected experience for anyone that comes accross my work. The more unique the experience, the closer we become as a people.
           </p>
           <p>
-            So keep that smile and let me know how I can help!
+            So keep that smile on your face and let me know how I can help!
           </p>
         </Container>
       </Container>
