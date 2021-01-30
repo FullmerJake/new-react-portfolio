@@ -10,7 +10,7 @@ import Col from 'react-bootstrap/Col';
 function About() {
   return (
     <>
-      <Jumbotron fluid className="mb-0">
+      <Jumbotron fluid className="mb-5">
         <Container>
           <Row>
             <Col sm={12} md={6}lg={4} className="justify-content-center">
