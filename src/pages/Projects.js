@@ -16,6 +16,7 @@ import bookSearchImage from '../assets/image/bookSearchImage.png';
 import budgetTrackerImage from '../assets/image/budgetTrackerImage.png';
 import noteTakerImage from '../assets/image/noteTaker.png';
 import jumpyManImage from '../assets/image/jumpyManImage.png';
+import tekTalkImage from '../assets/image/TekTalk.png';
 
 function Projects() {
   const projects = [
@@ -66,6 +67,14 @@ function Projects() {
       "imageSrc": noteTakerImage,
       "repository": "https://github.com/FullmerJake/note-taker",
       "deployed_app": "https://guarded-escarpment-16875.herokuapp.com/"
+    },
+    {
+      "title": "TekTalk",
+      "description": "Want to keep up with your Tech buddies? Join our forum and talk tech!",
+      "key": "tek-talk",
+      "imageSrc": tekTalkImage,
+      "repository": "https://github.com/FullmerJake/TekTalk",
+      "deployed_app" : "https://pure-springs-79722.herokuapp.com/"
     }
   ]
   return (
